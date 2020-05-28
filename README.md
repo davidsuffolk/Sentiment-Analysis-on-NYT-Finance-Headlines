@@ -1,0 +1,3 @@
+Sentiment Analysis on New York Times Finance Headlines
+
+Understanding media and society sentiment about financial health is an important aspect of understanding the potential of economic patterns and forecasts. One of the measures of the public sentiment is in the media headlines. If the positive, negative, or neutral attitudes of headlines regarding the financial world can be measured, there can be a better understanding of how an economy will act. If media sentiment correctly reflects changes or stability for different economic metrics, this could be an important forecasting tool in understanding where the economy is heading. The model could then be used to analyze daily headlines from various newspaper sources to analyze societal sentiment about the economy.
